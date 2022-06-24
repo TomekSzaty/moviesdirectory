@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista Filmów</title>
+</head>
+<body>
+    <h1>Moje filmy</h1>
+    <ul>
+        <li th:each="movie : ${movies}" th:text="${movie.name}"></li>
+    </ul>
+</body>
+</html>

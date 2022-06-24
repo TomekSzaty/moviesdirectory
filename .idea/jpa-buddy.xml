@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="postgres">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="d6a813f9-a0e3-427b-a89c-f21481fbd009" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/pl/tomsza/moviesdirectory" />
+  </component>
+</project>

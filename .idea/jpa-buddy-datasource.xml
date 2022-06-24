@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="d6a813f9-a0e3-427b-a89c-f21481fbd009" name="moviesdirectory" url="jdbc:postgresql://localhost:49153/postgres" driverClass="org.postgresql.Driver" />
+      <data-source id="d0fd9bf8-d7b2-4080-bc2f-31925971c4f6" name="movies" url="jdbc:postgresql://localhost:49153/movies" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
